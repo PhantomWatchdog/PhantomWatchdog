@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there 👋, Welcome on my personnal space!
 
-<!--
-**PhantomWatchdog/PhantomWatchdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Customized picture -->
 
-Here are some ideas to get you started:
+I am N.Fouquet, from France and a ***Holberton School student*** :man_student:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a SWE student, i'm currently practicing the basics of several tools :hammer_and_wrench:
+
+* ***Linux*** :penguin:
+* ***Vi*** :memo:
+* ***Git and Github*** :card_file_box: (99%/command line)
+
+## My next projects will concern:
+* Linux
+  * ***permissions***
+  * ***I/O redirections and filters***
+  * ***Init files***
+  * ***Variables and expansion***
+
+After that, i'll work on my first C project :crossed_swords:
+
+## Skills:
+> [!NOTE]
+> To complete
+
+## Tools:
+> [!NOTE]
+> To complete
+
+## Links:
+> [!NOTE]
+> To complete
+
+
+***Edited 02/11/2024 V1.0***
+
+
