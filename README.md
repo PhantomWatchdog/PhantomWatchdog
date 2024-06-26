@@ -54,12 +54,12 @@ As a SWE student, i'm currently working for add tools to my skills panel :hammer
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="Assets/snake.svg" alt="snake"/>
 </p>
 
 
 
 
-***Edited 26/06/2024 V2.0***
+***Edited 26/06/2024 V2.1***
 
 
